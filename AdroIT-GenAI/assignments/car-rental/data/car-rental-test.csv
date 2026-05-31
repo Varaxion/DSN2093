@@ -1,0 +1,11 @@
+ID,Gender,Age,Customer Status,Customer Service,Satisfaction,Business Area
+1,Female,68,Active,Staff at pickup were helpful,0,Pickup Process
+2,Male,40,Inactive,I received an old model with scratches,0,Vehicle Quality
+3,Male,33,Inactive,Confusing dropoff instructions,0,Dropoff Process
+4,Male,44,Active,Dropoff was fast and efficient,1,Dropoff Process
+5,Male,61,Inactive,Difficult to navigate the app,1,App Usability
+6,Female,66,Inactive,The vehicle had mechanical issues,0,Vehicle Quality
+7,Other,48,Active,Customer support was very helpful,0,Customer Support
+8,Other,64,Inactive,No one responded to my issue,0,Customer Support
+9,Other,40,Active,The rental price was too high,1,Pricing
+10,Female,27,Inactive,Dropoff was fast and efficient,1,Dropoff Process
